@@ -1,0 +1,3 @@
+[submodule "themes/landscape-ldnclj"]
+	path = themes/landscape-ldnclj
+	url = git@github.com:ldnclj/hexo-theme-landscape-ldnclj.git
