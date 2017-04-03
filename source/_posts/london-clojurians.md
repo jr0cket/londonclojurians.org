@@ -16,7 +16,7 @@ You can reach out to the Clojure community via:
 * [London Clojurians jobs mailing list](https://groups.google.com/forum/#!forum/london-clojurian-jobs) 
 * [Meetup: London Clojurians](https://www.meetup.com/London-Clojurians/) and [Calendar of events](https://www.meetup.com/London-Clojurians/events/)
 * Contact [London Clojurians Organisers](mailto:london-clojurians-organisers@gmail.com)
-
+* [Volunteer to speak](https://bit.ly/ldnclj-speak)
 
 ## Getting Started with Clojure or Clojurescript
 
@@ -41,6 +41,8 @@ Recommended editors / IDEs for Clojure include:
 ## Events
 
 We run around 50 events per year through the [London Clojurians meetup community](https://www.meetup.com/London-Clojurians/), that's nearly one a week, so there are many chances to get involved.  Each event is beginner-friendly, so anyone can join in.  All events respect our [code of conduct](code-of-conduct/), ensuring a safe and respectful environment.
+
+See our [calendar of events](https://www.meetup.com/London-Clojurians/events/)
 
 
 ### Coding Dojos 
@@ -68,15 +70,17 @@ An all-day workshop to support and encourage those from under-represented groups
 
 [The next event is in June 2017](https://clojurebridgelondon.github.io/)
 
-### Talk Nights
+### Talk Nights (1st Tueday of the month)
 
-We have a long history of talks on Clojure and the wider aspects of Functional Programming.
+We have a long history of talks on Clojure and the wider aspects of Functional Programming.  The first Tuesday of the month we run a talk night at SkillsMatter.
 
 Our talks are typically one of the following styles:
 
 * A lightning Talk (5-15 minutes)
 * A main talk (40-60 minutes)
 * A workshop (60-90 minutes)
+
+Please complete the following form if you would like to [volunteer to speak](https://bit.ly/ldnclj-speak)
 
 We want to hear about your experiences developing with Clojure as well as your journey into functional programming.  If you are using Clojure for work you definitely have something worth sharing.
 
