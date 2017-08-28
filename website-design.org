@@ -1,0 +1,44 @@
+# London Clojurians website - in Clojurescript
+
+* Options
+
+** A simple bootstrap style website
+*** pros
+- easy to create and manage
+
+*** Cons
+- doesnt really show off clojurescript potential
+
+
+** A react.js website with bootstrap
+
+** A reagent website with bootstrap
+
+** An Om-next website with bootstrap
+
+
+* Overall design
+
+A single page app to keep the website itself simple.  Any additional features could be spun off as their own sites, linked from the main site.
+
+** Components
+
+*** Events
+- next few events (pulled from meetup.com)
+- description of the kinds of events run (coding dojo's, HackTheTower, talk nights, ClojureBridge London)
+
+*** Community
+- profiles / people to connect to in the community
+
+*** Clojure / Clojurescript
+- a brief overview of Clojure & Clojurescript and how to get started (references, tutorials (link to tools))
+
+*** Tools / Developer Experience
+- tools for Clojure development and some guidance as to which you may want to choose
+
+
+*** Contributing
+- how to get involved in the community
+
+*** Code of Conduct
+- our code of conduct and why its important
