@@ -1,52 +1,84 @@
 ---
 title: How To Run a London Clojurians Coding Dojo
-date: 2017-03-28 14:08:34
+date: 2019-02-06 22:14:34
 ---
 
-Running dojos is a lot of fun. It is also really easy. No one has to prepare a talk or a subject for the night. The most important thing is that everyone has fun. After that if people learn some clojure, then that is a great bonus. But the fun has to come first to keep people coming back.
+The aim of the event is that everyone has fun whilst exploring Clojure in a safe and supportive environment.
 
-Here is a simple(?) step by step guide. If you are unsure about how to be an MC, then just watch some bits of The Muppet Show and do what Kermit does.
+Typical schedule for a coding dojo event:
 
-All of the below are suggestions and guidelines, not rules. Do what works. This seems to be working reasonably well for us. YMMV.
+18.30 - doors open / food arrives
+19.00 - Start the event - welcome everyone and decide on the challenges
+21.00 - Show and Tell - gather everyone and give everyone a chance to show what has been learnt
 
-* Find your hosts, say hello. Make sure everyone is happy. Make sure newcomers feel welcome.
+# Organising the event
 
-* Make sure the food is arriving/has arrived.
+The [London Clojurians meetup community](https://www.meetup.com/London-Clojurians/) has code dojo events automatically scheduled each month for uSwitch (2nd Monday of the month) and Thoughtworks (last Tuesday of the Month).
 
-* Make sure there is enough to drink (beer, wine, soft drinks).
+2-3 weeks before your event, visit the meetup page for your next event and press the **Announce** button at the top left of the page.
 
-* Get the projector for show and tell.
+A week before the event, send out a friendly email to the [London Clojurians mailing list](http://groups.google.com/group/london-clojurians) reminding them about the event.
 
-* Set up a whiteboard. Write “Dojo Ideas” at the top. Put “Roman Numeral Calculator” as the first idea to avoid the tyranny of the blank whiteboard.
+# Hosting the event
 
-* Greet fellow clojurians, eat food, drink whatever until 7PM.
+The host should organise food (usually pizza) and drinks (water, soft & alcoholic) for the event.  Take a look at the meetup event pages the afternoon of the event for the latest numbers.
 
-* Think of a silly question for the kick off.
+Food should be booked to arrive 15-20 minutes before the start of the event (usually starting at 7pm, with doors opening at 6.30pm)
 
-* At 7PM round everyone up for the kick off.
 
-* Thank everyone for coming, the sponsors for hosting and your fellow organisers.
+# Preparing to Running the code dojo event
 
-* Get everyone to introduce themselves, say how long they’ve been doing clojure for and answer a silly question.
+Ensure the following items are available before the event
+- WiFi details
+- Power sockets
+- Sticky labels for peoples names
+- Whiteboard or large screen and laptop for capturing ideas
+- Add the first idea to the board / laptop - eg. 4Clojure Challenges
 
-* Tell everyone that the dojo is a safe place to be a new to clojure and to try new things and learn things. Let experienced people know it is a great place to be surprised by things they didn’t know and to think hard about what they’ve learned and share it with everyone.
 
-*Vote on the task for the dojo. In the 1st round people can vote for more than one idea. Do run offs if necessary. In run off rounds you can ask people to only vote for one idea. Votes are approximate, unless it is important that they aren’t. Ties in voting are OK. You can do more than one thing. Teams are sovereign. If a team wants to work and present on something other than what was voted on then that is fine.
+# Running the code dojo event
 
-* Make sure there are enough clojure environments/experienced team members to go around. Get them up front to act as the 1st member of each team if needed.
+## Welcome people to the event
+Welcome everyone as they arrive and ask them to write their name on a sticky note.
 
-* Divide into teams of 4-6 people. Teams of 4 are better, but 3 is too small.
+Let people know about the food and drinks and where the facilities are (toilet, fire escape)
 
-* Get the teams to spread out and start.
+Encourage people to add ideas for the dojo.  There are ideas and previous challenges at http://www.londonclojurians.org/code-dojo/
 
-* Do the dojo! This should be enough time for everyone to have 10 minutes at the keyboard and 20-30 mins of discussion. Usually 1 hour 20 minutes.
+Ask people if they have Clojure experience, what things there are interested to learn, what they are doing with Clojure if they are already using it, etc.
 
-* Tell people when each 10 minute period is up and remind teams to rotate. Everyone should write at least 1 working line of clojure code that evening, even if it is just a (println “foo”).
+When you are ready to start, gather everyone around the ideas board and ask everyone to do a simple introduction
+- name
+- experience with clojure or other languages
+- an ice breaker question (e.g. what is your favorite flavour of ice cream?)
 
-* Make sure every team understands the problem, is able to get on to wifi, isn’t struggling too much.
+## Selecting a challenge and Grouping
 
-* Swap more or less experienced people from one team to another if a particular team is struggling too much. Ask them if they are still having fun first though. If they are having fun, then leave them alone.
+We organise everyone into small groups, around 3-4 people per group (any bigger and you spend all your time talking). To do this we all vote on the ideas put on the board for that evening.
 
-* After 80 minutes or so, round everyone up for show and tell at the projector.
+Read out each of the ideas on the board and ask the person who suggested it to briefly explain
 
-* Do show and tell. Thank everyone. Clean up. Go to the pub!
+Take a vote for each idea (people can vote for as many ideas as interests them).   If there is a clear winner that everyone is happy to do, then assemble into groups, ensuring each group has someone with a working Clojure enviroment and enough Clojure experience.
+
+If there are several ideas with many vote, then ote again but this time people can only vote once.  Just vote for the ideas with higher votes from the first round.  The idea with the most votes is the main challenge for the evening.
+
+Help people get into groups of 2-4 people for the idea they want to work on.
+
+> Note: If there is no clear winner, or are groups of that would prefer to do something other than the winning idea, this is perfectly okay.  Each group can do a different thing and its up to each group what they ultimately do.
+
+
+# Show and Tell
+
+Around 9pm, gather everyone together around a large screen or projector and take it in turns to describe what each group did.
+
+Remind people its not about creating something that worked, but what you learnt in your group that is the most important thing.
+
+Ensure there is a round of applause after each group has presented.
+
+If a group really doesnt want to show, no need to force them.
+
+Encourage people to share their code on GitHub and they can also add their code to the [London Clojurians Github organisation](https://github.com/ldnclj)
+
+Thank everyone for attending and ensure the venue is left as least as clean as before the event started.
+
+Thank you for helping support and continue the events of the London Clojure community.
